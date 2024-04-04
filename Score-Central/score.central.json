@@ -1,5 +1,5 @@
 {
-  "name": "Blank Starter",
+  "name": "Score-Central",
   "baseref": "main",
   "tarignore": [
     "node_modules",
